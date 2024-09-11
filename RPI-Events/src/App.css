@@ -1,0 +1,16 @@
+.App {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-wrap {
+    flex: 1 0 auto; /* This ensures that the content expands to fill the space, pushing the footer down */
+    padding-bottom: 20px; /* Adjust padding as needed */
+    flex-grow: 1;
+  }
+  
+  

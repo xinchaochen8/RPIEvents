@@ -1,0 +1,22 @@
+{
+  "name": "rpi-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itws4500-team11",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.11.0",
+    "firebase-admin": "^12.0.0",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,12 @@
+.home-page-container {
+    height: 130vh;
+    margin: 0;
+    padding: 0;
+    clear: both;
+    user-select: none;
+}
+
+.highlighted-page {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}

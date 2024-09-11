@@ -1,0 +1,25 @@
+.LoginSignupFormSelection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+.LoginSignupFormSelection button {
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    color: #000000; 
+    transition: background-color 0.3s, color 0.3s;
+    width: 100%;
+    background-color: transparent;
+}
+
+.LoginSignupFormSelection button:hover {
+    /* background-color: #2980b9;  */
+    border-bottom: 3px solid #3498db;
+    background-color: rgba(237, 237, 237, 0.8);
+    color: #000000; 
+}

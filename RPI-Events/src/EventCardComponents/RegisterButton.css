@@ -1,0 +1,31 @@
+.event-card-register-button {
+    margin-left: 47px;
+    margin-top: 5px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 1.3em;
+    width: 130px;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+}
+
+.already-registered {
+    margin-left: 47px;
+    margin-top: 5px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 1.3em;
+    width: 130px;
+    background-color: rgb(139, 43, 43);
+    color: white;
+    border-radius: 15px;
+}
+
+.already-registered:hover {
+    cursor: pointer
+}
+
+.event-card-register-button:hover {
+    cursor: pointer
+}

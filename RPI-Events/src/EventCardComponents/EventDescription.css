@@ -1,0 +1,44 @@
+.event-description-container {
+    text-align: left;
+    width: fit-content;
+    height: auto;
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+    font-size: 1.3em;
+    line-height: 1.3em;
+    clear: both;
+    overflow: hidden;
+    filter: drop-shadow(0, 0);
+    font-weight: normal;
+}
+
+.event-icon-container {
+    object-fit: contain;
+    width: 20px;
+    height: 100%;
+    line-height: 125%;
+    padding-right: 25px;
+    margin-bottom: 0;
+    float: left;
+    filter: drop-shadow(0, 0);
+}
+
+.event-icon-container:hover {
+    cursor: pointer;
+    filter: drop-shadow(0, 0);
+}
+
+.event-text-container{
+    float: left;
+    margin-bottom: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.tag-text {
+    font-size: 0.8em;
+    color: #445574;
+}

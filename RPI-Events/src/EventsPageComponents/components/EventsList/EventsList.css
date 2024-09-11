@@ -1,0 +1,74 @@
+.events-grid-container { 
+    margin: auto;  
+    width: 80%;
+    height: auto;
+    float: left;
+
+    display: grid;
+    grid-template:
+        "event00 event01 event02 event03"
+        "event10 event11 event12 event13"
+        "event20 event21 event22 event23"
+        "event30 event31 event32 event33"
+        "event40 event41 event42 event43"
+        "event50 event51 event52 event53"
+        "event60 event61 event62 event63"
+        "event70 event71 event72 event73"
+        "event80 event81 event82 event83"
+        "event90 event91 event92 event93";
+
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 420px 420px 420px 420px 420px 420px 420px 420px 420px 420px;
+    justify-content: space-evenly;
+}
+
+.event00 { grid-area: event00; }
+.event01 { grid-area: event01; }
+.event02 { grid-area: event02; }
+.event03 { grid-area: event03; }
+.event04 { grid-area: event04; }
+.event10 { grid-area: event10; }
+.event11 { grid-area: event11; }
+.event12 { grid-area: event12; }
+.event13 { grid-area: event13; }
+.event14 { grid-area: event14; }
+.event20 { grid-area: event20; }
+.event21 { grid-area: event21; }
+.event22 { grid-area: event22; }
+.event23 { grid-area: event23; }
+.event24 { grid-area: event24; }
+.event30 { grid-area: event30; }
+.event31 { grid-area: event31; }
+.event32 { grid-area: event32; }
+.event33 { grid-area: event33; }
+.event34 { grid-area: event34; }
+.event40 { grid-area: event40; }
+.event41 { grid-area: event41; }
+.event42 { grid-area: event42; }
+.event43 { grid-area: event43; }
+.event44 { grid-area: event44; }
+.event50 { grid-area: event50; }
+.event51 { grid-area: event51; }
+.event52 { grid-area: event52; }
+.event53 { grid-area: event53; }
+.event54 { grid-area: event54; }
+.event60 { grid-area: event60; }
+.event61 { grid-area: event61; }
+.event62 { grid-area: event62; }
+.event63 { grid-area: event63; }
+.event64 { grid-area: event64; }
+.event70 { grid-area: event70; }
+.event71 { grid-area: event71; }
+.event72 { grid-area: event72; }
+.event73 { grid-area: event73; }
+.event74 { grid-area: event74; }
+.event80 { grid-area: event80; }
+.event81 { grid-area: event81; }
+.event82 { grid-area: event82; }
+.event83 { grid-area: event83; }
+.event84 { grid-area: event84; }
+.event90 { grid-area: event90; }
+.event91 { grid-area: event91; }
+.event92 { grid-area: event92; }
+.event93 { grid-area: event93; }
+.event94 { grid-area: event94; }

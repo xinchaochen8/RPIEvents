@@ -1,0 +1,30 @@
+.tab-adjustments {
+    color: #252525 !important;
+    font-size: 1.1vw;
+    font-weight: bold;
+    font-family: 'Katibeh';
+    border: none;
+    border-radius: 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    /* padding: 5px 40px; */
+    width: 150px;
+    background-color: white !important;
+    margin-left: 50% !important;
+    transition: none !important;
+}
+.tab-adjustments:hover {
+    background-color: #98A8C3 !important;
+    border: none !important;
+}
+
+
+
+.tab-container-adjustments {
+    /* background-color: #B8B8B8; */
+    width: 100%;
+}
+
+.create-event-buttons {
+    background-color: red;
+}

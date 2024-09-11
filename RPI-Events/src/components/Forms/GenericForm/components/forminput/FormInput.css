@@ -1,0 +1,64 @@
+div {
+    margin-bottom: 1em;
+}
+
+.inputfield {
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+
+.inputfield input,
+.inputfield textarea,
+.inputfield select {
+    padding: 12px;
+    width: 80%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.inputfield select {
+    width: 50%;
+    text-align: center;
+}
+
+.inputfieldCheckBox {
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #333;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+
+.inputfield textarea {
+    /* resize: vertical; */
+    resize: none;
+    height: 360px;
+    transition: height 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.inputfield input:hover,
+.inputfield textarea:hover,
+.inputfield select:hover {
+    border-color: #af4c4c;
+    box-shadow: 0 0 10px rgba(175, 76, 76, 0.3);
+    background-color: rgb(196, 234, 255);
+    color: rgb(0, 0, 0);
+}
+
+.inputfield input:focus,
+.inputfield textarea:hover,
+.inputfield select:focus {
+    border-color: #af4c4c;
+    box-shadow: 0 0 10px rgba(175, 76, 76, 0.3);
+}

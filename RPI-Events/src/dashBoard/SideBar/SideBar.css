@@ -1,0 +1,4 @@
+.nav-link:hover {
+  background-color: #d3d3d3; /* Light grey, adjust the color as needed */
+  transition: background-color 0.3s ease-in-out;
+}

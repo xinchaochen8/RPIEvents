@@ -1,0 +1,23 @@
+.title-container {
+    height: 25%;
+    text-align: left;
+    line-height: 100%;
+    vertical-align: middle;
+    background-color: white;
+    color: #252525;
+    font-size: 3.8vw;
+    font-weight: bold;
+    font-family: 'Katibeh';
+    letter-spacing: 2px;
+}
+  
+.title-container pre {
+    margin: 0;
+    position: absolute;
+    top: 15%;
+    left: 11.5%;
+    overflow: hidden;
+    font-weight: bold;
+    font-family: 'Katibeh';
+}
+

@@ -1,0 +1,19 @@
+.sign-up-button {
+    height: 46px;
+    width: 100%;
+
+    color: white;
+    font-size: 1.3vw;
+    font-weight: bold;
+    font-family: 'Katibeh';
+    text-align: center;
+    border-radius: 80px;
+
+    background-color: #252525;
+    text-decoration: none;
+}
+
+.sign-up-button:hover {
+    background-color: #627AA2;
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+Discussed and brainstormed with my group about what kind of website are we going to make: including the functionality and how we might have to use to implement them. Think about the potential users and what might they want to see in our application. I don't really like the video part of the assignment. It feels funny and awkward watching it.

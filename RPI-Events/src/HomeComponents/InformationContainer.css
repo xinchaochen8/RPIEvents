@@ -1,0 +1,9 @@
+.information-container{
+    width: 50%;
+    height: 1250px;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: 'Katibeh';
+}

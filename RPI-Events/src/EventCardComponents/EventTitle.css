@@ -1,0 +1,12 @@
+.event-title-container {
+    font-weight: bold;
+    text-align: left;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 0;
+    line-height: 1.1em;
+    padding: 0;
+    margin-bottom: 0;
+    font-size: 1.5em;
+    filter: drop-shadow(0, 0);
+}

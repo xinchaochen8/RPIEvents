@@ -1,0 +1,36 @@
+.sub-title-container {
+    margin-top: 3%;
+    margin-left: 23%;
+    height: auto;
+    width: 90%;
+    background-color: white;
+    color: #252525;
+    overflow: hidden;
+}
+
+.sub-title {
+    padding-left: 100px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 2.5vw;
+    margin-bottom: 0;
+}
+
+.sub-icon {
+    height: 80px;
+    width: 80px;
+    float: left;
+    background-color: white;
+    object-fit: contain;
+}
+
+.sub-icon img {
+    width: 100%;
+    height: 100%;
+}
+
+.sub-description {
+    font-size: 1.3vw;
+    padding-bottom: 15px;
+    padding-left: 102px;
+}

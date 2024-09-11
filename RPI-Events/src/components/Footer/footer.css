@@ -1,0 +1,6 @@
+.footer {
+  background: #252525;
+  flex-shrink: 0; /* This ensures that the footer does not shrink */
+  width: 100%; /* Ensure footer takes full width */
+  padding: 10px 0; /* Padding for visual spacing */
+}

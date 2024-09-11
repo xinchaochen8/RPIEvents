@@ -1,0 +1,21 @@
+.big-sign-up-container {
+    width: 100%;
+}
+
+.big-sign-up {
+    margin-left: 45%;
+    margin-top: 100px;
+    height: auto;
+    width: 280px;
+    padding: 10px 30px;
+
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+.big-sign-up:hover {
+    cursor: grab;
+}

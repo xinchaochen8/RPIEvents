@@ -1,0 +1,12 @@
+.learn-more-container {
+    position: absolute;
+    color: red;
+    top: 155px;
+    right: 10px;
+    font-size: 0.5em;
+    text-decoration: underline;
+}
+
+.learn-more-container:hover {
+    cursor: pointer;
+}

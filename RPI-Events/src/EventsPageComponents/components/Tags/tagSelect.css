@@ -1,0 +1,17 @@
+#tags-container {
+  height: fit-content;
+  position: sticky;
+  top: 12%;
+  font-weight: bold;
+  font-family: 'Katibeh';
+  user-select: none;
+  font-size: 1.5em;
+  width: 65%;
+  margin: auto;
+  /* margin-left: 25px; */
+  margin-left: 45px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+

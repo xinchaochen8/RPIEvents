@@ -1,0 +1,17 @@
+.log-in-button {
+    height: 46px;
+    width: 100%;
+
+    color: white;
+    font-size: 1.3vw;
+    font-weight: bold;
+    font-family: 'Katibeh';
+    text-align: center;
+    border-radius: 80px;
+
+    background-color: #FF0000;
+}
+
+.log-in-button:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,34 @@
+.search-bar-container {
+    height: fit-content;
+    position: sticky;
+    top: 6%;
+    min-width: fit-content;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: 'Katibeh';
+}
+
+#events-search {
+    margin-right: 5px;
+    font-family: 'Katibeh';
+    border-radius: 15px;
+    padding-left: 15px;
+}
+
+.custom-search-styling {
+    margin-left: 5px;
+    padding-top: 11px;
+    background-color: #5C5C5C;
+    border: none;
+}
+
+.custom-search-styling:hover {
+    background-color: #627AA2;
+    cursor: pointer;
+}
+
+.custom-search-styling:active {
+    background-color: #627AA2 !important;
+    cursor: pointer;
+}

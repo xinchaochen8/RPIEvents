@@ -1,0 +1,26 @@
+
+.event00{grid-area: event00;}
+.event01{grid-area: event01;}
+.event02{grid-area: event02;}
+.event10{grid-area: event10;}
+.event11{grid-area: event11;}
+.event12{grid-area: event12;}
+
+.event-card-container {    
+    margin-top: 5%;
+    width: 40%;
+    height: auto;
+    float: left;
+
+    background-color: white;
+
+    display: grid;
+    grid-template:
+        "event00 event01"
+        "event10 event11"
+        "event20 event21";
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 420px 420px 420px;
+    justify-content: space-evenly;
+}
+
